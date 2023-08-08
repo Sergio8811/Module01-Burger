@@ -140,12 +140,12 @@ header {
     margin: 0 auto;
 }
 .banner {
-    margin-top: 140px;
+    margin-top: 0px;
 }
 .banner-box {
     display: flex;
     background-image: url(../images/banner.jpg);
-    width: 1180px;
+    max-width: 1180px;
     height: 438px;
     background-size: cover;
     color: #FFF;
@@ -193,7 +193,7 @@ header {
     text-align: left;
     position: absolute;
     left: 100px;
-    margin-top: 200px;
+    margin-top: 217px;
     
 }
 .banner-link {
@@ -216,5 +216,5 @@ header {
     line-height: 18px;
     position: absolute;
     left: 100px;
-    margin-top: 270px;
+    margin-top: 280px;
 }
